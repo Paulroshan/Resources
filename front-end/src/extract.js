@@ -1,0 +1,5 @@
+function hai()
+
+{
+    alert("external")
+}
